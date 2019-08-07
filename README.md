@@ -1,0 +1,1 @@
+This repository aims to develop a React Native component that is a randomly colored screen.
